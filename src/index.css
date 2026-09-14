@@ -9,8 +9,8 @@
   --color-muted: #a1a1aa;
   --color-border: #27272a;
   --color-card: #18181b;
-  --color-accent: #a3e635;
-  --color-accent-hover: #84cc16;
+  --color-accent: #3d8fe8;
+  --color-accent-hover: #5ea7ff;
 }
 
 @layer base {
